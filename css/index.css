@@ -56,16 +56,17 @@ nav a:hover{
     top: 280px;
     text-transform:capitalize;
     font-family:Roboto;
-    font-size: 20px;
+    /*font-size: 20px;*/
 }
 #link a{
     text-decoration: none;
-    color: white;
+    color: #1B1811;
+    font-size:25px;
 }
 #link a:hover{
     padding: 10px;
     border-radius: 10px;
-    border: 3px solid pink;
+    border: 3px solid hotpink;
 }
 h1{
     z-index: 1;
