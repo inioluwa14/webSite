@@ -55,7 +55,7 @@ caption{
 }
 table, th, td{
     text-align: center;
-    border: 1px solid  #1B1811;
+    /*border: 1px solid  #1B1811;*/
     border-collapse: collapse;
 }
 th, td{
